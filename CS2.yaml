@@ -1,0 +1,13 @@
+train: G:\STEM\projects\yolo v8\train\images
+val: G:\STEM\projects\yolo v8\valid\images
+test: G:\STEM\projects\yolo v8\test\images
+
+nc: 2
+names: ['CT', 'T']
+
+roboflow:
+  workspace: cs2-wwrij
+  project: cs-9hsmp
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/cs2-wwrij/cs-9hsmp/dataset/4
