@@ -1,4 +1,5 @@
-# CS2-aiming-assistance
+# CS2-aiming-assistance based on yolov8
+
 This is a CS2 assitance designed for fast and accurate head shots, it depend on visible recognion through yolov8, no reading memory or modifying files.
 
 
